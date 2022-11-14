@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Art Space Compose</string>
+
+    <!-- AUTHORS -->
+    <string name="author1">Author One</string>
+    <string name="author2">Author Two</string>
+    <string name="author3">Author Three</string>
+    <string name="author4">Author Four</string>
+    <string name="author5">Author Five</string>
+
+    <!-- ARTWORKS -->
+    <string name="artwork1">Atworkisimo One La Belisimo</string>
+    <string name="artwork2">Atworkisimo Two La Belisimo</string>
+    <string name="artwork3">Atworkisimo Three La Belisimo</string>
+    <string name="artwork4">Atworkisimo Four La Belisimo</string>
+    <string name="artwork5">Atworkisimo Five La Belisimo</string>
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+
+    <!-- YEARS -->
+    <string name="art_1_year">(2019)</string>
+    <string name="art_2_year">(2017)</string>
+    <string name="art_3_year">(2020)</string>
+    <string name="art_4_year">(2015)</string>
+    <string name="art_5_year">(2021)</string>
 </resources>
